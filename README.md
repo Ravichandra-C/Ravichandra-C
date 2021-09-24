@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ravi, a passionate self-taught full stack web developer . I'm currently looking for opportunities to build web applications in MERN stack.
+I'm Ravi, a passionate self-taught full stack web developer . I'm currently looking for opportunities to build web applications in MERN or PERN stack.
 
 🔭 I’m currently working on [Chapter](https://github.com/freeCodeCamp/chapter)
 
