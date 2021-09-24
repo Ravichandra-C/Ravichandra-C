@@ -10,6 +10,8 @@ I'm Ravi. I'm currently learning to build web applicatiios in MERN stack.
 
 😄 Pronouns: he/him...
 
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 
 
