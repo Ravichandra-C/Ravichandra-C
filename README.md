@@ -13,9 +13,3 @@ I'm Ravi, a passionate self-taught full stack web developer . I'm currently look
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
-
-
-
-
-<!--END_SECTION:activity-->
