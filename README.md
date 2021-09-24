@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ravi. I'm currently learning to build web applicatiios in MERN stack.
+I'm Ravi, a passionate self-taught full stack web developer . I'm currently learning to build web applicatiios in MERN stack.
 
 🔭 I’m currently working on [Chapter](https://github.com/freeCodeCamp/chapter)
 
