@@ -16,6 +16,6 @@ I'm Ravi, a passionate self-taught full stack web developer . I'm currently look
 1. 🗣 Commented on [#99](https://github.com/freeCodeCamp/chapter/issues/99) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
 2. 🗣 Commented on [#99](https://github.com/freeCodeCamp/chapter/issues/99) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
 3. 🗣 Commented on [#99](https://github.com/freeCodeCamp/chapter/issues/99) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
-4. 💪 Opened PR [#712](https://github.com/freeCodeCamp/chapter/pull/712) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
-5. 🗣 Commented on [#99](https://github.com/freeCodeCamp/chapter/issues/99) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
+4. 🗣 Commented on [#99](https://github.com/freeCodeCamp/chapter/issues/99) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
+5. 💪 Opened PR [#712](https://github.com/freeCodeCamp/chapter/pull/712) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
 <!--END_SECTION:activity-->
