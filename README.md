@@ -8,7 +8,7 @@ I'm Ravi, a passionate self-taught full stack web developer . I'm currently look
 
   [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ravi-chandra-3345144b)
 
-😄 Pronouns: he/him...
+😄 Pronouns: he/him
 
 ### :zap: Recent Activity
 
