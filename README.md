@@ -13,9 +13,9 @@ I'm Ravi, a passionate self-taught full stack web developer . I'm currently look
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/treymo/joplin-link-graph/issues/30) in [treymo/joplin-link-graph](https://github.com/treymo/joplin-link-graph)
-2. 💪 Opened PR [#718](https://github.com/freeCodeCamp/chapter/pull/718) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
-3. 🗣 Commented on [#107](https://github.com/freeCodeCamp/chapter/issues/107) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
+1. 🗣 Commented on [#31](https://github.com/treymo/joplin-link-graph/issues/31) in [treymo/joplin-link-graph](https://github.com/treymo/joplin-link-graph)
+2. 🗣 Commented on [#30](https://github.com/treymo/joplin-link-graph/issues/30) in [treymo/joplin-link-graph](https://github.com/treymo/joplin-link-graph)
+3. 💪 Opened PR [#718](https://github.com/freeCodeCamp/chapter/pull/718) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
 4. 🗣 Commented on [#107](https://github.com/freeCodeCamp/chapter/issues/107) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
 5. 🗣 Commented on [#107](https://github.com/freeCodeCamp/chapter/issues/107) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
 <!--END_SECTION:activity-->
