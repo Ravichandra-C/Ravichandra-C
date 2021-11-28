@@ -13,9 +13,9 @@ I'm Ravi, a passionate self-taught full stack web developer . I'm currently look
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#821](https://github.com/freeCodeCamp/chapter/pull/821) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
-2. 🗣 Commented on [#796](https://github.com/freeCodeCamp/chapter/issues/796) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
+1. 🗣 Commented on [#821](https://github.com/freeCodeCamp/chapter/issues/821) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
+2. 💪 Opened PR [#821](https://github.com/freeCodeCamp/chapter/pull/821) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
 3. 🗣 Commented on [#796](https://github.com/freeCodeCamp/chapter/issues/796) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
-4. 🗣 Commented on [#815](https://github.com/freeCodeCamp/chapter/issues/815) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
-5. 💪 Opened PR [#815](https://github.com/freeCodeCamp/chapter/pull/815) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
+4. 🗣 Commented on [#796](https://github.com/freeCodeCamp/chapter/issues/796) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
+5. 🗣 Commented on [#815](https://github.com/freeCodeCamp/chapter/issues/815) in [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter)
 <!--END_SECTION:activity-->
